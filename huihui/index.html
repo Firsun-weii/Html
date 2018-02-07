@@ -3,6 +3,7 @@
 <head>
 	<title>祝你哥哥新婚快乐</title>
 	<meta charset="utf-8">
+	<audio autoplay="autoplay" loop="loop" src="rescore/赵雷 - 成都.mp3"></audio>
 	<style type="text/css">
 	    *{
 	    	margin: 0px;
@@ -10,6 +11,7 @@
 	    }
 		.pian{
 			width: 1519px;
+			height: 2000px;
 			display: none;
 		}
 	</style>
@@ -18,11 +20,11 @@
 			var img = document.getElementsByTagName('img');
 			var i = 0;
 			function visit(){
-				img[i%40].style.display = 'none';
+				img[i%39].style.display = 'none';
 				i++;
-				img[i%40].style.display = 'block';
+				img[i%39].style.display = 'block';
 			}
-			setInterval(visit,2000);
+			setInterval(visit,1500);
 		}
 	</script>
 </head>
