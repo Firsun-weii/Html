@@ -4,6 +4,18 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>19岁生日快乐！</title>
 <link type="text/css" rel="stylesheet" href="renxi/default.css">
+<script type="text/javascript">
+    window.onload=function(){
+        var div = document.getElementsByClassName('a');
+        function visit(){
+                div[i%2].style.display = 'none';
+                i++;
+                div[i%2].style.display = 'block';
+            }
+            setInterval(visit,1500);
+
+    }
+</script>
 <script type="text/javascript" src="renxi/jquery.min.js"></script>
 <script type="text/javascript" src="renxi/jscex.min.js"></script>
 <script type="text/javascript" src="renxi/jscex-parser.js"></script>
@@ -13,6 +25,11 @@
 <script type="text/javascript" src="renxi/jscex-async-powerpack.min.js"></script>
 <script type="text/javascript" src="renxi/functions.js" charset="utf-8"></script>
 <script type="text/javascript" src="renxi/love.js" charset="utf-8"></script>
+<style type="text/css">
+    #b{
+        display: none;
+    }
+</style>
 <style type="text/css">
 <!--
 .STYLE1 {
@@ -30,13 +47,18 @@
   <div id="wrap">
     <div id="text">
       <div id="code">
-           <img width="290px" height="330px" src="images/1.jpg"><br>
-       <font color="#FF0000"> <span class="say"></span><br>
-        <span class="say">好好学习</span><br>
-        <span class="say">我最大的希望就是你能快乐！</span><br>
-        <span class="say">现在我希望你好好学习！</span><br>
-        <span class="say">我也要好好奋斗</span><br>
-        <span class="say">米晓雨加油，永远支持你。<span><br>
+        <div class="a">
+           <img width="290px" height="330px" src="images/1.jpg">
+        </div>
+        <div class="a" id="b">
+           <img width="290px" height="330px" src="images/2.jpg">
+        </div>
+        <br>
+       <font color="#FF0000"><br>
+        <span class="say">19岁生日快乐！6940天</span><br>
+        <span class="say">没有机会当面给你们过生日!</span><br>
+        <span class="say">这也是一种方式！</span><br>
+        <span class="say">生日快乐!<span><br>
         <span class="say"><span class="space"></span>开学见！</span> </font>
         </p>
 
