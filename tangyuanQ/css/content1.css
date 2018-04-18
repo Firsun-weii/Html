@@ -1,0 +1,109 @@
+.middle{
+	width: 1519px;
+	height: 400px;
+	/*background-color: yellow;*/
+}
+
+#content{
+	width: 1320px;
+	height: 500px;
+	margin-left: 100px;
+	/*background-color: red;*/
+}
+
+#conlogo{
+	width: 1320px;
+	height: 108px;
+}
+
+#context{
+	width: 1320px;
+	height: 392px;
+	/*background-color: blue;*/
+}
+
+#contextl{
+	width: 170px;
+	height: 392px;
+	float: left;
+	/*background-color: yellow;*/
+}
+
+#contextr{
+	width: 1150px;
+	height: 392px;
+	float: left;
+	/*background-color: red;*/
+}
+
+#ul3{
+	list-style: none;
+	width: 170px;
+	height: 392px;
+}
+
+.li3{
+	width: 170px;
+	height: 44px;
+	line-height: 44px;
+	text-align: center;
+}
+
+.yisheng{
+	width: 350px;
+	height: 180px;
+	/*background-color: yellow;*/
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+
+.yishengl{
+	width: 170px;
+	height: 167px;
+	float: left;
+	line-height: 180px;
+	padding-top: 13px;
+	text-align: center;
+	/*background-color: blue;*/
+}
+
+.yishengr{
+	width: 180px;
+	height: 180px;
+	float: left;
+	/*line-height: 180px;
+	text-align:center;*/
+	/*background-color: red;*/
+}
+
+.za3{
+	font-family: '华文琥珀';
+	line-height: 30px;
+	text-align: center;
+	line-height: 45px;
+	/*margin-left: 30px;*/
+}
+
+.rtop{
+	width: 180px;
+	height: 90px;
+	text-align: center;
+	/*background-color: red;*/
+}
+
+.rend{
+	width: 180px;
+	height: 90px;
+	text-align: center;
+	/*background-color: yellow;*/
+}
+
+.za1{
+	line-height: 20px;
+
+}
+
+.za2{
+	line-height: 20px;
+}

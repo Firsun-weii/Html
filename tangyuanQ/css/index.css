@@ -1,0 +1,93 @@
+.middle{
+	width: 1519px;
+	height: 410px;
+	/*background-color: yellow;*/
+}
+
+#content{
+	width: 1320px;
+	height: 400px;
+	/*background-color: red;*/
+	margin-left: 100px;
+
+}
+
+#conleft{
+	width: 170px;
+	height: 400px;
+	/*background-color: red;
+*/	float: left;
+}
+
+#conmid{
+	width: 800px;
+	height: 400px;
+	/*background-color: yellow;
+*/	float: left;
+}
+
+#conright{
+	width: 350px;
+	height: 400px;
+	/*background-color: blue;*/
+	float: left;
+}
+
+.chaxun{
+	width: 170px;
+	height: 80px;
+	/*background-color:  blue;*/
+}
+
+.chaxunl{
+	width: 110px;
+	height: 70px;
+	float: left;
+	padding-top: 10px;
+	margin-left: 10px;
+	/*background-color: yellow;
+*/}
+
+.chaxun p{
+	margin-top: 10px;
+	font-size: 13px;
+
+	color: grey;
+}
+
+.chaxunr{
+	width: 50px;
+	height: 70px;
+	float: left;
+	padding-top: 10px;
+	text-align: center;
+	line-height: 80px;
+	/*background-color: red;*/
+}
+
+.yaopin{
+	width: 170px;
+	height: 185px;
+	text-align: center;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	/*background-color: blue;
+*/	float: left;
+}
+
+.yaopin a{
+	margin-left: 0px;
+}
+
+.yaopin img{
+	width: 112px;
+	height: 134px;
+}
+
+.zhuyi{
+
+	width: 350px;
+	height: 200px;
+	border-color: red;
+}
