@@ -1,0 +1,112 @@
+.content{
+	width: 1500px;
+	height: 450px;
+	margin: 15px;
+}
+
+#tuijian{
+	width: 1400px;
+	height: 400px;
+	margin: 20px;
+	background-image: url(../images/content1.jpg);
+	background-size: 400px 400px;
+	float: left;
+}
+
+#tuijian h1{
+    padding-top: 100px;
+    text-align: center;
+}
+
+#tuijian ul{
+	margin:20px;
+}
+
+#tuijian li{
+    margin: 20px;
+}
+
+#tuijian h5{
+	float: right;
+}
+
+#tuijian1{
+	width: 400px;
+	height: 250px;
+	/*background-color: red;*/
+/*	float: left;*/
+}
+
+#neirong{
+	width: 1450px;
+	height: 450px;
+	margin: 20px;
+	margin-left: 10px;
+	background-image: url(../images/pinglun.gif);
+	background-size: 1450px 450px;
+	float: left;
+}
+
+#neirong h1{
+	padding-top: 60px;
+	text-align: center;
+}
+
+#neirong h2{
+	text-align: center;
+}
+
+#neirong p{
+	margin-left: 200px;
+	margin-right: 120px;
+	text-indent: 2em;
+	font-size: 20px;
+	color: #0000FF;
+	/*font-family: '华文行楷';*/
+}
+
+#pinglun{
+	width: 325px;
+	height: 600px;
+	margin:20px;
+	margin-left: 5px;
+	margin-right: 10px;
+	float: left;
+	background-image: url(../images/pinglun.gif);
+	background-size: 325px 600px;
+}
+
+#pinglun h2{
+	margin-top: 70px;
+	text-align: center;
+}
+
+#pinglun ol{
+	margin-left: 50px;
+}
+
+#pinglun ol li{
+	margin-bottom: 25px;
+}
+
+#pinglun h3{
+	margin-left: 24px;
+}
+
+#pinglun form{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+h1{
+	font-family: '黑体';
+	color: #CC0099;
+}
+
+h2{
+	font-family: '华文新魏';
+	color: #66CC66;
+}
+
+p{
+	font-family: '华文楷体';
+}

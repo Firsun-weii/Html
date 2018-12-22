@@ -1,0 +1,86 @@
+h1{
+	color: yellow;
+}
+
+
+.content{
+	width: 1480px;
+	height: 1130px;
+	margin: 15px;
+}
+
+.tupian{
+	width: 1000px;
+	height: 530px;
+	margin-left:220px;
+	margin-top: 20px;
+	float: left;
+	border: 2px blue solid;
+}
+
+.tupian img{
+	margin-left: 3px;
+	margin-top: 3px;
+	width: 994px;
+	height: 480px;
+}
+.tupian h3{
+	text-align: center;
+}
+
+.tuandui{
+	width: 306px;
+	height: 230px;
+	margin-right: 78px;
+	margin-top: 40px;
+	float: left;
+	border: 2px blue solid;
+}
+
+
+.tuandui img{
+	margin-left: 3px;
+	margin-top: 3px;
+	width: 300px;
+	height: 190px;
+}
+
+.tuandui a:hover img{
+	width: 300px;
+	height: 230px;
+}
+
+.tuandui h3{
+	text-align: center;
+}
+
+
+.tupian2{
+	width: 306px;
+	height: 230px;
+	margin-right: 0px;
+	margin-top: 40px;
+	float: left;
+	border: 2px blue solid;
+}
+
+.tupian2 img{
+	margin-left: 3px;
+	margin-top: 3px;
+	width: 300px;
+	height: 190px;
+}
+.tupian2 h3{
+	text-align: center;
+}
+
+.tupian a:hover img{
+	width: 994px;
+	height: 530px;
+}
+
+.tupian2 a:hover img{
+	width: 300px;
+	height: 230px;
+}
+

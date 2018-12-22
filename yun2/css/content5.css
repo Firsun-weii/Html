@@ -1,0 +1,205 @@
+.content{
+	width: 1500px;
+	height: 1850px;
+	margin: 15px;
+}
+
+#tuijian{
+	width: 1400px;
+	height: 400px;
+	margin: 20px;
+	background-image: url(../images/content1.jpg);
+	background-size: 400px 400px;
+	float: left;
+}
+
+#tuijian h1{
+    padding-top: 100px;
+    text-align: center;
+}
+
+#tuijian ul{
+	margin:20px;
+}
+
+#tuijian li{
+    margin: 20px;
+}
+
+#tuijian h5{
+	float: right;
+}
+
+#tuijian1{
+	width: 400px;
+	height: 250px;
+	/*background-color: red;*/
+/*	float: left;*/
+}
+
+#neirong{
+	width: 1450px;
+	height: 450px;
+	margin: 20px;
+	margin-left: 10px;
+	background-image: url(../images/content1.jpg);
+	background-size: 1450px 450px;
+	float: left;
+}
+
+#neirong h1{
+	padding-top: 60px;
+	text-align: center;
+}
+
+#neirong h2{
+	text-align: center;
+}
+
+#neirong p{
+	margin-left: 135px;
+	margin-right: 120px;
+	text-indent: 2em;
+	font-size: 20px;
+	color: #0000FF;
+	/*font-family: '华文行楷';*/
+}
+
+#pinglun{
+	width: 325px;
+	height: 600px;
+	margin:20px;
+	margin-left: 5px;
+	margin-right: 10px;
+	float: left;
+	background-image: url(../images/pinglun.gif);
+	background-size: 325px 600px;
+}
+
+#pinglun h2{
+	margin-top: 70px;
+	text-align: center;
+}
+
+#pinglun ol{
+	margin-left: 50px;
+}
+
+#pinglun ol li{
+	margin-bottom: 25px;
+}
+
+#pinglun h3{
+	margin-left: 24px;
+}
+
+#pinglun form{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+h1{
+	font-family: '黑体';
+	color: #CC0099;
+}
+
+h2{
+	font-family: '华文新魏';
+	color: #66CC66;
+}
+
+p{
+	font-family: '华文楷体';
+}
+
+.daili{
+	width: 1400px;
+	height: 350px;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.tupian{
+	width: 258px;
+	height: 350px;
+	float: left;
+	border: 2px blue solid;
+}
+
+.tupian img{
+	margin-top: 4px;
+	width: 250px;
+	height: 300px; 
+	margin-left: 4px;
+}
+
+.tupian h2{
+	text-align: center;
+	padding-top: 15px;
+}
+
+.jianjie{
+	width: 1020px;
+	height: 350px;
+	margin-left: 20px;
+	background-image: url(../images/niandai.png);
+	background-size: 1020px 550px;
+	float: left;
+}
+
+.jianjie h3{
+	margin-left: 55px;
+	margin-top: 30px;
+	font-family: '宋体';
+	color: blue;
+}
+
+.jianjie p{
+	margin-left: 54px;
+	text-indent: 2em;
+	margin-right: 220px;
+	font-size: 17px;
+	color: #3300FF;
+	font-family: '楷体';
+	line-height: 25px;
+
+}
+
+
+
+.jianjie2{
+	width: 1020px;
+	height: 350px;
+	margin-left: 20px;
+	background-image: url(../images/kuang.jpg);
+	background-size: 1020px 550px;
+	float: left;
+}
+
+.jianjie2 h3{
+	margin-left: 55px;
+	margin-top: 30px;
+	font-family: '宋体';
+	color: blue;
+}
+
+.jianjie2 p{
+	margin-left: 54px;
+	text-indent: 2em;
+	margin-right: 220px;
+	font-size: 17px;
+	color: red;
+	font-family: '楷体';
+	line-height: 28px;
+	font-weight: bold;
+
+}
+
+.goumai{
+	margin-left: 60px;
+	margin-top: 50px;
+	color: red;
+	font-family: '宋体';
+	font-style: 800px;
+	font-weight: 900;
+}
